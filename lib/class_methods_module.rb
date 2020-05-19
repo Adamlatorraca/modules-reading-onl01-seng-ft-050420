@@ -1,2 +1,3 @@
-def metadata
+module MetaDancing
+
 end
