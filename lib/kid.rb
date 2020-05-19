@@ -8,5 +8,5 @@ class Kid
 
   def initialize(name)
     @name = name
-
+  end
 end
