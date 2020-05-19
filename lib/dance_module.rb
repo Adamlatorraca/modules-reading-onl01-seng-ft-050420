@@ -1,2 +1,2 @@
-module Dancer
+module Dance
 end
